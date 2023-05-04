@@ -12,7 +12,7 @@ The To-do List is a simple web application that allows users to add tasks to a l
 Getting Started
 To get started, you can clone this repository to your local machine using the following command:
 
-https://github.com/shreyashdeshm/LGM-ToDo-List.git```
+https://github.com/shreyashdeshm/LGM-ToDo-List.git
 
 ## Prerequisites
 
